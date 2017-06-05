@@ -40,3 +40,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? contact me.
 
 blah blah
+
+[google](www.google.com)
+
+
+# Header 1
+## Header 2
+### Header 3
